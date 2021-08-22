@@ -1,0 +1,61 @@
+let resume =
+{
+    "Intro": 
+    [
+     {
+     
+      "Name": "Dineshkumar C",
+      "Email": "dineshkumarcdk1397@gmail.com",
+      "Phone": "+91-7299991585",
+      "Degree": "BE Civil Engineering",
+      "Objective": "To excel professionally by optimizing my existing skills as well as to acquire new skills by experience and training and implement it for the betterment of the business.",
+      "Address": "Chennai",
+      "City": "Chennai",
+      "State": "TamilNadu",
+      "Country": "India",
+     },
+    ],
+    "Experience": 
+     [
+      {
+        "Company": "Airports Authority of India",
+        "position": "GAT",
+        "website": "https://www.aai.aero/",
+        "startDate": "2019",
+        "endDate": "2020",
+      },
+    ],
+    
+    "Education": 
+    [
+      {
+        "institution": "Anna university",
+        "area": "Civil Engineering",
+        "studyType": " Full time",
+        "startDate": "2014",
+        "endDate": "2018",
+        "gpa": "6.33",
+      }
+    ],
+    
+    "Project": 
+    [
+      {
+        "name": "Stabilization of Poor Soil using Fly Ash and Quarry Dust.",
+     
+      }
+    ],
+    "Skills": [
+      {
+        "name": "AutoCAd, REvit, StaadPro",
+      }
+    ],
+    "languages known": [
+      {
+        "language": "TAmil, English",
+        "Mother tongue": "Tamil"
+      }
+    ],
+}
+
+console.log(resume);
