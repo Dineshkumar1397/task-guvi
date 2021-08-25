@@ -1,0 +1,62 @@
+1.Execute the below code and write your description in txt file
+> typeof(1)
+'number'
+> typeof(1.1)
+'number'
+> typeof('1.1')
+'string'
+> typeof(true)
+'boolean'
+> typeof(null)
+'object'
+> typeof(undefined)
+'undefined'
+> typeof([])
+'object'
+> typeof({})
+'object'
+> typeof(NaN)
+'number'
+...........................................................................................................................................................................
+
+2. List 5 difference between Browser JS(console) v Nodejs
+
+JavaScript is a programming language that is used for writing scripts on the website.
+NodeJS is a Javascript runtime environment.
+
+JavaScript is a popular programming language and it runs in any web browser with a good web browser.
+Node.js is an interpreter and environment for JavaScript, which JS programming can be used separately.
+
+JavaScript is basically used on the client-side. 
+NodeJS is mostly used on the server-side.
+
+JavaScript running any engine like JavaScript Core (Safari), Spider monkey (FireFox), V8 (Google Chrome).
+NodeJS only runs in a V8 engine that is mainly used by Google Chrome. And, JS program which will be written with the help of Node.js library will always run in the V8 Engine.
+
+JavaScript can only be run in the browsers.
+Javascript outside the browser with the help of NodeJS.
+..............................................................................................................................................................................
+3. watch & summary 5 points - how does the browser actually render a website
+
+Parsing-> DOM tree
+DOM tree -> Render tree
+4 trees namely -> render objects, render styles, render layers, line boxes
+Layout computes where node will be on screen-> Recursive process, Will batch layout, Immediate layout
+Painting -> this will combine all process and display the combined output on screen
+
+
+
+
+DOM node to  render object -> visual output, geometric info, can layout and paint, hold style & computed meterics
+LAYOUT-> Recursive process 
+       -> Will batch layout 
+       -> Immediate layout
+
+
+
+
+
+
+
+
+
