@@ -1,0 +1,21 @@
+﻿1. Difference between HTTP1.1 vs HTTP2
+
+HTTP 1.1 - Version 1.1 was released in 1997
+HTTP 2.0 - Released in February 2015 
+
+
+HTTP 2.0 speeds up page load significantly and is widely supported by all major browsers and servers than HTTP 1.1.
+
+
+HTTP 1.1 only allows one outstanding request per TCP connection. But with HTTP 2.0 we can have multiple requests at a time.
+
+
+The Performance is improved in HTTP 2.0, it is beneficial for organization websites who deal with millions of transaction in second, have a quick look
+
+
+In HTTP 2.0 rendering speed of webpages is faster than HTTP 1.1.
+.....................................................................
+
+2. To read:
+https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages
+https://stackoverflow.com/questions/17253545/scripting-language-vs-programming-language
